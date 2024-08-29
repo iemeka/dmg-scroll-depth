@@ -2,7 +2,7 @@
 
 Please find below the implementation of a scroll depth tracking system designed to monitor and inform users of their progress through an article on a webpage. This system supports both fixed content and dynamically loaded content.
 
-### Versions Implemented - video of both
+### Versions Implemented
 Article Only: This version tracks the scroll depth through the article up to the start of the comment section. It provides a progress bar and notifications to inform the user of their current progress
 
 Article + Infinite Feed: This version extends tracking to cover the entire page, including infinite scrolling feeds. It ensures that the progress bar and notifications remain accurate even with dynamically loaded content.
